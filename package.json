@@ -16,7 +16,7 @@
     "whois"
   ],
   "author": "kayumi",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "dependencies": {
     "whois": "^2.10.0"
   }
