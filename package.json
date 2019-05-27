@@ -19,5 +19,14 @@
   "license": "MIT",
   "dependencies": {
     "whois": "^2.10.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayuminbou/node-red-contrib-ipwhois.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kayuminbou/node-red-contrib-ipwhois/issues"
+  },
+  "homepage": "https://github.com/kayuminbou/node-red-contrib-ipwhois#readme"
 }
