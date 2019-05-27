@@ -1,0 +1,23 @@
+{
+  "name": "node-red-contrib-ipwhois",
+  "version": "1.0.0",
+  "description": "This is a node to convert IP address to WHOIS information.",
+  "main": "node.js",
+  "node-red": {
+    "nodes": {
+      "ipwhois": "node.js"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-red",
+    "whois"
+  ],
+  "author": "kayumi",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "whois": "^2.10.0"
+  }
+}
